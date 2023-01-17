@@ -1,6 +1,6 @@
 import dotenv from 'dotenv';
 import { createServer } from 'http';
-import controller from "controller";
+import controller from "./controller";
 
 dotenv.config();
 
